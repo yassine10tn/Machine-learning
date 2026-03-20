@@ -17,7 +17,7 @@ machine_learning/
 │           └── main.py
 
 ## Technologies
-- Python 3.x
+- Python 3.4
 - Pandas
 - Matplotlib
 - Seaborn
